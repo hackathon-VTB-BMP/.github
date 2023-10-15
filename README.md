@@ -29,7 +29,7 @@ Here, you can find an overview of our projects and repositories.
 
 ### Project Name
 - [Repository Name](https://github.com/)
-  - Description: A short description of the project.
+  - Description: 
   - [Demo](https://link-to-demo-if-available.com)
   - [Documentation](https://link-to-docs-if-available.com)
 
