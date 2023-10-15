@@ -26,6 +26,8 @@ At hackathon-VTB-BMP, we aim to design and develop a web service for finding the
 
 ## Projects
 Here, you can find an overview of our project and repositories.
+The algorithm is described in the Back-End
+
 
 ### Front-End
 - [Front-End](https://github.com/hackathon-VTB-BMP/Front-End)
