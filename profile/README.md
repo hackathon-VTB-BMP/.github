@@ -6,6 +6,7 @@
 
 ## Table of Contents
 - [About](#about)
+- [Projects](#projects)
 - [Members](#members)
   
 ## About
@@ -22,6 +23,16 @@ At hackathon-VTB-BMP, we aim to design and develop a web service for finding the
 - **Community Building:** We believe in the power of collaboration and community. Our team works together to solve the task.
 
 - **Innovation:** We constantly seek innovative solutions and explore new frontiers.
+
+## Projects
+Here, you can find an overview of our project and repositories.
+
+### Front-End
+- [Front-End](https://github.com/hackathon-VTB-BMP/Front-End)
+### Back-End
+- [Back-End](https://github.com/hackathon-VTB-BMP/Back-End)
+### Resources
+- [Resources](https://github.com/hackathon-VTB-BMP/Resources)
 
 ## Members
 Meet our amazing team of contributors.
