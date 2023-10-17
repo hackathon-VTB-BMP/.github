@@ -1,7 +1,7 @@
 ## Hi there 👋
 # We are hackathon-VTB-BMP
 
-![Logo](https://github.com/hackathon-VTB-BMP/.github/blob/main/logo_BMP.jpeg)
+![Logo](https://github.com/hackathon-VTB-BMP/.github/blob/main/logo.jpeg)
 
 
 ## Table of Contents
